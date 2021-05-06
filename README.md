@@ -18,7 +18,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-<!-- TODO - hunt down some more icons -->
+<!-- TODO - hunt down some more icons  -->
 
 ### Frontend
 
