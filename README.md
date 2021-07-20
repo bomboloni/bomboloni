@@ -75,11 +75,13 @@
 
 <br/>
 
-## Github Stats
+<!-- ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bomboloni&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>
 
 <br/>
+
+this was inaccurate, to my detriment-->
 
 <!-- ## Recent Blog Posts -->
 
