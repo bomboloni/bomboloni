@@ -2,7 +2,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> -->
 
-### <div align="center">Hi! I'm Sandy, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>
+<div align="center">
+<h1>Hi! I'm Sandy</h1> 
+<h2>I'm full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</h2>
+</div>
 
 - 🔭 I’m currently working on sharpening my skills
 
