@@ -3,7 +3,7 @@
 </div> -->
 
 <div align="center">
-# Hi! I'm Sandy
+<h1>Hi! I'm Sandy</h1> 
 <h2>I'm full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</h2>
 </div>
 
